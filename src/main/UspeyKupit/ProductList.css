@@ -1,0 +1,74 @@
+.kupit {
+  width: 1294px;
+  height: 682px;
+}
+.kupit h2 {
+  color: #000;
+  font-size: 28px;
+  font-weight: 400;
+}
+.product-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 26px 41px;
+}
+.img {
+ padding: 10px;
+ width: 160px;
+ height: 160px;
+ flex-shrink: 0;
+}
+.product {
+
+  width: 181px;
+  height: 270.25px;
+  border-radius: 4px;
+  background: #f8f4f4;
+  box-shadow: 0px 4px 40px 0px rgba(0, 0, 0, 0.12);
+}
+.price {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  margin-left: 8.5px;
+  height: 20px;
+
+}
+.price1 {
+  height: 16px;
+  color: var(--UI-red, #FF4343);
+  font-size: 14px;
+  font-weight: 550;
+}
+.previousPrice {
+  text-align: center;
+  margin-top: 18px;
+  height: 12px;
+  color: var(--UI-grey-price, rgba(70, 70, 70, 0.55));
+  font-size: 10px;
+  text-decoration: line-through; 
+  font-weight: 550;
+}
+.desc {
+  color: #000;
+  margin-top: 4px;
+  margin-left: 10px;
+  font-size: 12px; 
+  width: 157px;
+}
+
+.all-products {
+  width: 187px;
+  height: 44px;
+  border: 1.5px solid var(--UI-liner-border-100, #df0f9a);
+  box-shadow: 0px 0px 40px 0px rgba(0, 0, 0, 0.12);
+  text-align: center;
+  margin-left:auto ;
+  margin-top: 19px;
+  
+}
+.all-products h2 {
+  color: #000;
+font-size: 14px;
+}
+

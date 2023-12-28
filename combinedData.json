@@ -1,0 +1,518 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "image": "boy 2 (1).svg",
+            "price": 1999,
+            "previousPrice": 2499,
+            "description": "Футболка с дизайнерским принтом Super Shape 02 фиолетовая"
+          },
+          {
+            "id": 2,
+            "price": 3179 ,
+            "previousPrice": 1999,
+            "image": "boy 1.svg",
+            "description": "Футболка с дизайнерским принтом Super Shape 01 градиент"
+          },
+          {
+            "id": 3,
+            "price": 1375,
+            "previousPrice": 1999,
+            "image": "hat 1.svg",
+            "description": "Бейсболка с дизайнерским принтом Super Shape 01 белая"
+          },
+          {
+            "id": 4,
+            "price": 599,
+            "previousPrice": 990,
+            "image": "phone 1.svg",
+            "description": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+          },
+          {
+            "id": 5,
+            "price": 599,
+            "previousPrice": 990,
+            "image": "phone 2.svg",
+            "description": "Чехол для iphone 12 с дизайнерским принтом Super Shape 05"
+          },
+          {
+            "id": 6,
+            "price": 2399,
+            "previousPrice":3790,
+            "image": "boy 5.svg",
+            "description": "Футболка с дизайнерским принтом Super Shape 06 абстракция             "
+          },
+      
+          {
+            "id": 7,
+            "price": 1375,
+            "previousPrice": 2499,
+            "image": "hat 2.svg",
+            "description": "Бейсболка с дизайнерским принтом Super Shape 02 абстракция"
+          },
+          {
+            "id": 8,
+            "price": 599,
+            "previousPrice": 990,
+            "image": "phone 13 1.svg",
+            "description": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+          },
+          {
+            "id": 9,
+            "price": 599,
+            "previousPrice": 990,
+            "image": "phone 4.svg",
+            "description": "Чехол для iphone 12 с дизайнерским принтом Super Shape 02"
+          },
+          {
+            "id": 10,
+            "price": 3179,
+            "previousPrice": 1999,
+            "image": "boy 3.svg",
+            "description": "Футболка с дизайнерским принтом Super Shape 02 зелёная"
+          },
+          {
+            "id": 11,
+            "price": 599,
+            "previousPrice": 990,
+            "image": "phone 6.svg",
+            "description": "Чехол для iphone 12 с дизайнерским принтом Super Shape 06"
+          },
+          {
+            "id": 12,
+            "price": 2399,
+            "previousPrice":3790,
+            "image": "boy 6.svg",
+            "description": "Футболка с дизайнерским принтом Super Shape 06 абстракция"
+          }
+    ],
+    "newProducts": [
+      {
+        "id": 1,
+        "price": 2399,
+        "image": "t-shirt4.svg",
+        "description": "Футболка с дизайнерским принтом Super Shape 04 формулы"
+      },
+      {
+        "id": 2,
+        "price": 1375,
+        "image": "t-shirt9 1.svg",
+        "description": "Футболка с дизайнерским принтом Super Shape 04 формулы"
+      },
+      {
+        "id": 3,
+        "price": 2399,
+        "image": "t-shirt6.svg",
+        "description": "Футболка с дизайнерским принтом Super Shape 04 формулы"
+      },
+      {
+        "id": 4,
+        "price": 1375,
+        "image": "phone 5.svg",
+        "description": "Чехол для iphone 12 с дизайнерским принтом Super Shape 01"
+      },
+      {
+        "id": 5,
+        "price": 1999,
+        "image": "phone 11 1.svg",
+        "description": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+      },
+      {
+        "id": 6,
+        "price": 599,
+        "image": "hat3 1.svg",
+        "description": "Бейсболка с дизайнерским принтом Super Shape 01 белая"
+      },
+      {
+        "id": 7,
+        "price": 2399,
+        "image": "phone 12 1.svg",
+        "description": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+      },
+      {
+        "id": 8,
+        "price": 3179,
+        "image": "t-shirt3.svg",
+        "description": "Футболка с дизайнерским принтом Super Shape 04 формулы"
+      },
+      {
+        "id": 9,
+        "price": 2399,
+        "previousPrice":0,
+        "image": "phone 13 1.svg",
+        "description": "Чехол для iphone 12 с дизайнерским принтом Super Shape 05"
+      },
+      {
+        "id": 10,
+        "price": 1375,
+        "image": "phone 12 1.svg",
+        "description": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+      },
+      {
+        "id": 11,
+        "price": 1999,
+        "image": "t-shirt8 1.svg",
+        "description": "Футболка с дизайнерским принтом Super Shape 04 формулы"
+      },
+      {
+        "id": 12,
+        "price": 2399,
+        "image": "t-shirt7 1.svg",
+        "description": "Футболка с дизайнерским принтом Super Shape 04 формулы"
+      }
+    ],
+
+    "shopProducts": [
+        {
+          "id": 1,
+          "logo": "Logo_store.svg",
+          "title": "Marple",
+          "image": "t-shirt1.svg",
+          "image2": "boy 1.svg",
+          "image3": "boy 6.svg"
+        },
+        {
+          "id": 2,
+          "logo": "logo4 1.svg",
+          "title": "Huawei",
+          "image": "phone 2.svg",
+          "image2": "phone 4.svg",
+          "image3": "phone 5.svg"
+        },
+        {
+          "id": 3,
+          "logo": "logo6 1.svg",
+          "title": "Berlingo",
+          "image": "hat 1.svg",
+          "image2": "hat 2.svg",
+          "image3": "t-shirt7 1.svg"
+        },
+        {
+          "id": 4,
+          "logo": "Logo_store.svg",
+          "title": "Marple",
+          "image": "t-shirt1.svg",
+          "image2": "boy 1.svg",
+          "image3": "boy 6.svg"
+        },
+        {
+          "id": 5,
+          "logo": "logo3 1.svg",
+          "title": "U-kwai",
+          "image": "phone 1.svg",
+          "image2": "phone 3.svg",
+          "image3": "phone 6.svg"
+        },
+        {
+          "id": 6,
+          "logo": "logo5 1.svg",
+          "title": "Lassie",
+          "image": "t-shirt5.svg",
+          "image2": "t-shirt3.svg",
+          "image3": "t-shirt2.svg"
+        },
+        {
+          "id": 7,
+          "logo": "logo1 1.svg",
+          "title": "Densel",
+          "image": "t-shirt1.svg",
+          "image2": "t-shirt4.svg",
+          "image3": "t-shirt7 1.svg"
+        },
+        {
+          "id": 8,
+          "logo": "logo6 1.svg",
+          "title": "Berlingo",
+          "image": "hat 1.svg",
+          "image2": "hat 2.svg",
+          "image3": "t-shirt7 1.svg"
+        },
+        {
+          "id": 9,
+          "logo": "logo2 1.svg",
+          "title": "Cuess",
+          "image": "phone 1.svg",
+          "image2": "phone 3.svg",
+          "image3": "phone 6.svg"
+        },
+        {
+          "id": 10,
+          "logo": "logo4 1.svg",
+          "title": "Huawei",
+          "image": "phone 2.svg",
+          "image2": "phone 4.svg",
+          "image3": "phone 5.svg"
+        },
+        {
+          "id": 11,
+          "logo": "logo1 1.svg",
+          "title": "Densel",
+          "image": "t-shirt1.svg",
+          "image2": "t-shirt4.svg",
+          "image3": "t-shirt7 1.svg"
+        },
+        {
+          "id": 12,
+          "logo": "logo3 1.svg",
+          "title": "U-kwai",
+          "image": "phone 1.svg",
+          "image2": "phone 3.svg",
+          "image3": "phone 6.svg"
+        }
+
+      ],
+      "recomendProducts": [
+        {
+          "id": 1,
+          "price": 599,
+          "image": "phone 6.svg",
+          "description": "Чехол для iphone 12 с дизайнерским принтом Super Shape 06"
+        },
+        {
+          "id": 2,
+          "price": 1999,
+          "image": "t-shirt8 1.svg",
+          "description": "Футболка с дизайнерским принтом Super Shape 04 формулы"
+        },
+        {
+          "id": 3,
+          "price": 1375,
+          "image": "phone 5.svg",
+          "description": "Чехол для iphone 12 с дизайнерским принтом Super Shape 01"
+        },
+        {
+          "id": 4,
+          "price": 1999,
+          "image": "phone 11 1.svg",
+          "description": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+          "id": 5,
+          "image": "boy 2 (1).svg",
+          "price": 1999,
+          "description": "Футболка с дизайнерским принтом Super Shape 02 фиолетовая"
+        },
+        {
+          "id": 6,
+          "price": 599,
+          "image": "hat3 1.svg",
+          "description": "Бейсболка с дизайнерским принтом Super Shape 01 белая"            
+        },
+    
+        {
+          "id": 7,
+          "image": "boy 2 (1).svg",
+          "price": 1999,
+          "description": "Футболка с дизайнерским принтом Super Shape 02 фиолетовая"
+        },
+        {
+          "id": 8,
+          "price": 599,
+          "image": "phone 13 1.svg",
+          "description": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+          "id": 9,
+          "price": 599,
+          "image": "phone 4.svg",
+          "description": "Чехол для iphone 12 с дизайнерским принтом Super Shape 02"
+        },
+        {
+          "id": 10,
+          "price": 3179,
+          "image": "boy 3.svg",
+          "description": "Футболка с дизайнерским принтом Super Shape 02 зелёная"
+        },
+        {
+          "id": 11,
+          "price": 599,
+          "image": "phone 6.svg",
+          "description": "Чехол для iphone 12 с дизайнерским принтом Super Shape 06"
+        },
+        {
+          "id": 12,
+          "price": 2399,
+          "image": "boy 6.svg",
+          "description": "Футболка с дизайнерским принтом Super Shape 06 абстракция"
+        },
+        {
+          "id": 13,
+          "price": 2399,
+          "image": "t-shirt4.svg",
+          "description": "Футболка с дизайнерским принтом Super Shape 04 формулы"
+        },
+        {
+          "id": 14,
+          "price": 1375,
+          "image": "t-shirt9 1.svg",
+          "description": "Футболка с дизайнерским принтом Super Shape 04 формулы"
+        },
+        {
+          "id": 15,
+          "price": 2399,
+          "image": "t-shirt6.svg",
+          "description": "Футболка с дизайнерским принтом Super Shape 04 формулы"
+        },
+        {
+          "id": 16,
+          "price": 1375,
+          "image": "phone 5.svg",
+          "description": "Чехол для iphone 12 с дизайнерским принтом Super Shape 01"
+        },
+        {
+          "id": 17,
+          "price": 1999,
+          "image": "phone 11 1.svg",
+          "description": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+          "id": 18,
+          "price": 599,
+          "image": "hat3 1.svg",
+          "description": "Бейсболка с дизайнерским принтом Super Shape 01 белая"
+        },
+        {
+          "id": 19,
+          "price": 2399,
+          "image": "phone 12 1.svg",
+          "description": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+          "id": 20,
+          "price": 3179,
+          "image": "t-shirt3.svg",
+          "description": "Футболка с дизайнерским принтом Super Shape 04 формулы"
+        },
+        {
+          "id": 21,
+          "price": 2399,
+          "previousPrice":0,
+          "image": "phone 13 1.svg",
+          "description": "Чехол для iphone 12 с дизайнерским принтом Super Shape 05"
+        },
+        {
+          "id": 22,
+          "price": 1375,
+          "image": "phone 12 1.svg",
+          "description": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+          "id": 23,
+          "price": 1999,
+          "image": "t-shirt8 1.svg",
+          "description": "Футболка с дизайнерским принтом Super Shape 04 формулы"
+        },
+        {
+          "id": 24,
+          "price": 2399,
+          "image": "t-shirt7 1.svg",
+          "description": "Футболка с дизайнерским принтом Super Shape 04 формулы"
+        },
+        {
+          "id": 25,
+          "price": 2399,
+          "image": "t-shirt4.svg",
+          "description": "Футболка с дизайнерским принтом Super Shape 04 формулы"
+        },
+        {
+          "id": 26,
+          "price": 1375,
+          "image": "t-shirt9 1.svg",
+          "description": "Футболка с дизайнерским принтом Super Shape 04 формулы"
+        },
+        {
+          "id": 27,
+          "price": 2399,
+          "image": "t-shirt6.svg",
+          "description": "Футболка с дизайнерским принтом Super Shape 04 формулы"
+        },
+        {
+          "id": 28,
+          "price": 1375,
+          "image": "phone 5.svg",
+          "description": "Чехол для iphone 12 с дизайнерским принтом Super Shape 01"
+        },
+        {
+          "id": 29,
+          "price": 1999,
+          "image": "phone 11 1.svg",
+          "description": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+          "id": 30,
+          "price": 599,
+          "image": "hat3 1.svg",
+          "description": "Бейсболка с дизайнерским принтом Super Shape 01 белая"
+        },
+        {
+          "id": 31,
+          "price": 2399,
+          "image": "phone 12 1.svg",
+          "description": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+          "id": 32,
+          "price": 3179,
+          "image": "t-shirt3.svg",
+          "description": "Футболка с дизайнерским принтом Super Shape 04 формулы"
+        },
+        {
+          "id": 33,
+          "price": 2399,
+          "previousPrice":0,
+          "image": "phone 13 1.svg",
+          "description": "Чехол для iphone 12 с дизайнерским принтом Super Shape 05"
+        },
+        {
+          "id": 34,
+          "price": 1375,
+          "image": "phone 12 1.svg",
+          "description": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+          "id": 35,
+          "price": 1999,
+          "image": "t-shirt8 1.svg",
+          "description": "Футболка с дизайнерским принтом Super Shape 04 формулы"
+        },
+        {
+          "id": 36,
+          "price": 2399,
+          "image": "t-shirt7 1.svg",
+          "description": "Футболка с дизайнерским принтом Super Shape 04 формулы"
+        }
+      ],
+      "slideProducts": [
+        {
+          "id": 1,
+          "price": 1375,
+          "image": "t-shirt9 1.svg",
+          "description": "Футболка с дизайнерским принтом Super Shape 04 формулы"
+        },
+        {
+          "id": 2,
+          "price": 1999,
+          "image": "t-shirt8 1.svg",
+          "description": "Футболка с дизайнерским принтом Super Shape 04 формулы"
+        },
+        {
+          "id": 3,
+          "price": 1999,
+          "image": "t-shirt4.svg",
+          "description": "Футболка с дизайнерским принтом Super Shape 04 формулы"
+        },
+        {
+          "id": 4,
+          "price": 2399,
+          "image": "t-shirt7 1.svg",
+          "description": "Футболка с дизайнерским принтом Super Shape 04 формулы"
+        },
+        {
+          "id": 5,
+          "price": 2399,
+          "image": "t-shirt6.svg",
+          "description": "Футболка с дизайнерским принтом Super Shape 04 формулы"
+        }
+      ]
+  }
+  

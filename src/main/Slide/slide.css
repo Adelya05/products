@@ -1,0 +1,40 @@
+.Slide {
+    width: 1366px;
+}
+.Slide h1 {
+    color: #000;
+    font-size: 28px;
+    font-weight: 500;
+}
+.slide-list {
+    display: flex;
+    gap: 19px;
+}
+.slide-product {
+    width: 241px;
+    height: 180.5px;
+    border-radius: 4px;
+    background: var(--UI-white, #FFF);
+    box-shadow: 0px 0px 40px 0px rgba(0, 0, 0, 0.12);
+    display: flex;
+    gap: 18px;
+}
+.slide-product img {
+    width: 108px;
+    height: 108px;
+    padding: 36px 14px;
+
+}
+.slide-p {
+    display: flex;
+    flex-direction: column;
+}
+.slide-text {
+    color: #000;
+    font-size: 12px;
+    font-weight: 400;
+    margin-top: 36px;
+}
+.slide-price {
+    font-size: 14px;
+}

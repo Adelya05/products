@@ -1,0 +1,87 @@
+.modal {
+    display: flex;
+    position: absolute;
+    animation: fadeIn 0.3s ease-in-out;
+}
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+.close {
+    position: absolute;
+    top: 5px;
+    right: 10px;
+    cursor: pointer;
+    font-size: 15px;
+}
+.modal-content {
+    padding: 20px;
+    border-radius: 4px;
+    background: var(--UI-white, #FFF);
+    box-shadow: 0px 4px 40px 0px rgba(0, 0, 0, 0.22);
+    width: 200px;
+    height: 390px;
+}
+.delete {
+    display: flex;
+    width: 180px;
+    height: 34px;
+    justify-content: center;
+    align-items: center;
+    background: var(--UI-liner-button-100, linear-gradient(97deg, #F64D4D -57.09%, #4D5EF6 101.17%));
+    border: none;
+    color: var(--UI-white, #FFF);
+    font-size: 13px;
+    margin-top: 22px;
+}
+.reviews {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    height: 16px;
+    font-size: 12px;
+    margin-top: 13px;
+}
+.modal-img {
+    width: 180px;
+    height: 180px;
+}
+.modal-price {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    height: 20px;
+    margin-top: 10px;
+}
+.modal-price1 {
+    height: 16px;
+    color: var(--UI-red, #FF4343);
+    font-size: 14px;
+    font-weight: 550;
+}
+.modal-previousPrice {
+    text-align: center;
+    margin-top: 18px;
+    height: 12px;
+    color: var(--UI-grey-price, rgba(70, 70, 70, 0.55));
+    font-size: 10px;
+    text-decoration: line-through;
+    font-weight: 550;
+}
+.modal-desc {
+    color: var(--UI-black, #000);
+    font-size: 13px;
+    font-weight: 300;
+    width: 162px;
+}
+.modal h3 {
+    height: 16px;
+    color: var(--UI-black, #000);
+    font-size: 14px;
+    font-weight: 400;
+    text-transform: uppercase;
+}
